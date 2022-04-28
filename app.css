@@ -5,6 +5,12 @@
     font-family: 'Roboto', sans-serif;
   }
   
+  html{
+    background-color: #814d4d;
+}
+  }
+
+
   img{
     width: 100%;
     display: block;
